@@ -1,0 +1,25 @@
+Get     http://menufit.com/platillos
+
+Status Code: 200 (OK)
+Content-type: application/json
+
+{
+    "platillos": [
+        {
+            "id": 1,
+            "name": "Pollo a la plancha",
+            "calorias": 300,
+            "seccion": "proteinas"
+        },
+        {
+            "id": 2,
+            "name": "Carne con brocoli oriental",
+            "calorias": 400,
+            "seccion": "proteinas"
+        }
+            "id": 3,
+            "name": "nieve proteica de fresa",
+            "calorias": 250,
+            "seccion": "postres"
+    ]
+}
